@@ -1,6 +1,8 @@
 # GIS Student
+
 ### Skillset
 - R, SQL, Python, Tableau, Leaflet, HTML, Java, Excel, ArcGIS Pro, QGIS
+
 ## Education
 B.A. Geography: Data Science Option, University of Washington
 Expected Graduation Date: June 2026
