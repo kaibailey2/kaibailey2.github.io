@@ -17,4 +17,3 @@ Undergraduate Research
   
 ### Personal Projects
 1. Black Population and Unaffordable Housing in Seattle
-- [View my project](project1.html)
