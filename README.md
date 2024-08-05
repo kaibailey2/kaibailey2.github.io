@@ -6,12 +6,12 @@
 B.A., Geography: Data Science Option | University of Washington (_September 2022 - June 2026_)
 
 ## Data Experience
-**INRIX Hackathon 2023
+<strong>INRIX Hackathon 2023</strong>
 - Learned about APIs, GitHub Collaboration, HTML formatting
 - Created App to help new drivers find a route best suited to their needs, API key no longer active
 - Used Leaflet, HTML, CSS, Python, R
 
-**Undergradute Research
+<strong>Undergradute Research</strong>
 - Used survey data from Community Mental Health Providers to identify which burnout solutions are underutilized and most desired
 - Coded responses, cleaned data, analyzed data, and created data visualizations
 - Used R, Python, Tableau
