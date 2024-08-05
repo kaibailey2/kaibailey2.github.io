@@ -17,3 +17,4 @@ Undergraduate Research
   
 ### Personal Projects
 1. Black Population and Unaffordable Housing in Seattle
+- Click [here](https://html-preview.github.io/?url=https://github.com/kaibailey2/kaibailey2.github.io/blob/main/project1.html) to view the project (it may take a minute to load)
